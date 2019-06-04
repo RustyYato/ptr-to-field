@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-    'ptr-to-field-core'
+    'ptr-to-field-core',
+    'ptr-to-field-macro',
 ]
