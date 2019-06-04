@@ -1,0 +1,5 @@
+[workspace]
+
+members = [
+    'ptr-to-field-core'
+]
