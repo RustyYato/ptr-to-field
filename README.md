@@ -48,3 +48,8 @@ pub mod Foo_fields {
     }
 }
 ```
+
+
+# Contributing
+
+See CONTRIBUTING.md
