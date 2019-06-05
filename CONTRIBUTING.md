@@ -7,7 +7,6 @@ The first thing I would like to emphasize is that this crate is **NOT** meant fo
 * [Feature Requests](#Feature-Requests)
 * [Bug Reports](#Bug-Reports)
 * [Making Pull Requests](#Making-Pull-Requests)
-* [Writing Documentation](#Writing-Documentation)
 
 ## Feature Requests
 [Feature Requests]: #Feature-Requests
