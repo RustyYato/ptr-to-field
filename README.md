@@ -1,5 +1,7 @@
 # Pointer to Field
 
+Note: This library is no long being worked on, please use [generic-field-projection](https://github.com/KrishnaSannasi/generic-field-projection) instead.
+
 This workspace is a proof of concept for the pointer to field concept discussed in this [Rust Internals](https://internals.rust-lang.org/t/idea-pointer-to-field/10061) discussion.
 
 This workspace does not intend to be a fully fledged implementation, and will likely be missing many key features to making the pointer to field idea truly work.
